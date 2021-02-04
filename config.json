@@ -1,0 +1,17 @@
+{
+	"applications": [
+		{
+			"id": "NOTEPAD",
+			"executable": "VFS/ProgramFilesX64/Notepad++/notepad++.exe",
+			"stopOnscriptError": false,
+			"startScript": {
+			"scriptExecutionMode": "-ExecutionPolicy Unrestricted",
+			"scriptPath": "CopyFiles.ps1",
+			"showWindow": false,
+			"waitForScriptToFinish": true,
+			"runOnce": false
+			}
+		}
+	]
+}
+    			
